@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "name": "geo_edit_PIPE",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "PIPE_ID": 183,
+                "_id": "682e97186d4b760eb16c13e1",
+                "assetCode": "",
+                "class": "SDR13.5",
+                "depth": 0.2,
+                "globalId": "01JVTZWDSC1MJNFP4H0QQ8R5S0",
+                "gradeId": "",
+                "length": 22,
+                "locate": "บ้านศรีฐาน",
+                "oldProjectNo": "",
+                "pipeIdPrev": 0,
+                "projectNo": "3511/51",
+                "pwaCode": "5521040",
+                "recordDate": "2008-10-14T17:00:00.229Z",
+                "remark": "",
+                "typeId": "PB",
+                "yearInstall": 2551,
+                "_temp_id": "4225675",
+                "productId": 5,
+                "functionId": 2,
+                "layingId": 1,
+                "sizeId": 20,
+                "classId": 19
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        102.817745,
+                        16.433343
+                    ],
+                    [
+                        102.817719,
+                        16.433477
+                    ],
+                    [
+                        102.8177,
+                        16.433537
+                    ]
+                ]
+            },
+            "id": "682e97186d4b760eb16c13e1",
+            "alias": "01JVYAASXW6F0A14YDWWAN7K5K"
+        }
+    ]
+}
